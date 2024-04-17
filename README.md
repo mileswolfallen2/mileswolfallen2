@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 ---> mileswallen@icloud.com 
 
 
-[![mileswolfallen2 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![mileswolfallen2](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
