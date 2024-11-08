@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mileswolfallen2
 - 👀 I’m interested in  cooding and 3D art
-- 🌱 I’m currently learning html and .java 
-- 💞️ I’m looking to collaborate on  now peple howstarted like me 
+- 🌱 I’m currently learning html and .java and no c++
+- 💞️ I’m looking to collaborate on games or wedsites
 - 📫 How to reach me e mall to mileswolfallen4@hotmail.com or  mileswa1q2@gmail.com or at https://replit.com/@MilesAllen1 or https://codepen.io/mileswolfallen2-the-typescripter  coment 
 
 <!---
