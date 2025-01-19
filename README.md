@@ -9,7 +9,7 @@ mileswolfallen2/mileswolfallen2 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mileswolfallen2icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mileswolfallen2 icons=true&theme=radical)
 [![mileswolfallen2](https://github-readme-stats.vercel.app/api?username=mileswolfallen2)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
 
 
