@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileswolfallen2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mileswolfallen2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 stuf i no how to do 
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,blender,cloudflare,git,github,gitlab,linux,mint,netlify,py,raspberrypi,replit,ubuntu,unity,unreal,vscode,windows,arch,apple)](https://skillicons.dev)
 
