@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html and .java and no c++
 - 💞️ I’m looking to collaborate on games or wedsites
 - 📫 How to reach me e mall to mileswolfallen4@hotmail.com or  mileswa1q2@gmail.com or at https://replit.com/@MilesAllen1 or https://codepen.io/mileswolfallen2-the-typescripter  coment
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,blender,cloudflare,git,github,gitlab,linux,mint,netlify,py,raspberrypi,replit,ubuntu,unity,unreal,vscode,windows,arch,apple)](https://skillicons.dev)
 
 <!---
 mileswolfallen2/mileswolfallen2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
