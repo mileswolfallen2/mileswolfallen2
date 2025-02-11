@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 
 stuf i no how to do 
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,blender,cloudflare,git,github,gitlab,linux,mint,netlify,py,raspberrypi,replit,ubuntu,unity,unreal,vscode,windows,arch,apple)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,blender,cloudflare,git,github,gitlab,linux,mint,netlify,py,raspberrypi,replit,ubuntu,unity,unreal,vscode,windows,arch,apple,godot)](https://skillicons.dev)
 
 i em lernign
 - [![My Skills](https://skillicons.dev/icons?i=js,npm,php,net,nix,yarn)](https://skillicons.dev)
