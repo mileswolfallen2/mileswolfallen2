@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mileswolfallen2
-- i moved my progect to my commpuney by yall this will onley be for preservashun and for pashen progects 
+-this is JUST FOR FUN do not make this a big deal plz
 - 👀 I’m interested in  cooding and 3D art
 - 🌱 I’m currently learning back end with javascript
 - 💞️ I’m looking to collaborate on games or wedsites
